@@ -1,0 +1,9 @@
+#groupItems{
+	display: flex; 
+	justify-content: center; 
+	gap: 20px;
+}
+h1{	
+	color: rgb(136, 83, 36);
+	text-align: center;
+}
